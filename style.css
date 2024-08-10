@@ -11,7 +11,7 @@
 }
 
 html{
-    font-size: 62,5%;
+    font-size: 62.5%;
 }
 
 body{
@@ -42,7 +42,7 @@ header{
     color: #b74b4b;
     font-weight: 800;
     cursor: pointer;
-    transition: 0,5 ease;
+    transition: 0.5s ease;
 }
 
 .logo:hover{
@@ -54,7 +54,7 @@ nav a{
     color: white;
     margin-left: 4rem;
     font-weight: 500;
-    transition:0,3 ease;
+    transition:0.3s ease;
     border-bottom: 3px solid transparent;
 }
 
